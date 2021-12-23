@@ -11,12 +11,32 @@ body {
     padding: 30px;
 }
 
+.navbar-bg-color {
+	background-color: #42A8C0;
+}
+
+.navbar-bg-color a{
+	color:#ffff!important;
+	font-family: ui-serif;
+}
+
+.navbar-bg-color a:hover{
+	color:#201e1e!important;
+	font-weight:bold;
+}
+
+.navbar-bg-color .nav-container .navbar-collapse .navbar-nav .active a {
+       font-weight: bold!important;
+        color:#201e1e!important;	   
+    }
+
 .organization h6 small{
 	color: #6c757d87!important;
 }
 
 .heading{
-	color: #212529;
+	/* color: #212529; */
+	color: #42A8C0;
     font-weight: bold;
 }
 
