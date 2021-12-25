@@ -3,7 +3,11 @@
 
   
 <div class="container">
+
   <div class="row"><app-navbar></app-navbar></div>
+  
+  <button (click)="changeLanguage('en')">en</button>
+<button (click)="changeLanguage('nl')">nl</button> 
 </div>
  
 <router-outlet></router-outlet>
