@@ -15,7 +15,7 @@ body {
 	background-color: #42A8C0;
 }
 
-.navbar-bg-color a{
+.navbar-bg-color a,.nav-radio{
 	color:#ffff!important;
 	font-family: ui-serif;
 }
@@ -30,6 +30,10 @@ body {
         color:#201e1e!important;	   
     }
 
+    .nav-radio{		
+		padding-top: 0.5em;  
+	}
+	
 .organization h6 small{
 	color: #6c757d87!important;
 }
