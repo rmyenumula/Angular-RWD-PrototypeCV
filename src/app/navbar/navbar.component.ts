@@ -15,14 +15,12 @@ export class NavbarComponent implements OnInit {
         translate.setDefaultLang('en');
     }
 	
-	changeLanguage(){
-		
-	   if(document.getElementById('languageChanged').checked) 	
-	   {
-		    this.translate.use('nl');
-       }else{
-		    this.translate.use('en');
-	   }
+	changeLanguage(event) {
+		 if ( event.target.checked ) {
+			 this.translate.use('nl');
+		}else{
+			this.translate.use('en');
+		}	
 	
    }
 
