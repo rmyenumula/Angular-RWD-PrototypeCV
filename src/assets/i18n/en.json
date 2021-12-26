@@ -1,9 +1,18 @@
 {
-    "Education": {
-        "heading": "Education",
-        "text": "Bachelor of Engineering (Electrical and Electronics) with 71% from S.R.K.R Engineering College,affiliated to Andhra University."
-    },
-	"Contact":{
+	"Menuheader": {
+		"aboutme": "ABOUT ME",
+		"techskills": "TECHNICAL SKILLS",
+		"projects": "PROJECTS",
+		"organization": "ORGANIZATION",
+		"education": "EDUCATION",
+		"contact": "CONTACT",
+		"Curculimvita": "Curculimvita"
+	},
+	"Education": {
+		"heading": "Education",
+		"text": "Bachelor of Engineering (Electrical and Electronics) with 71% from S.R.K.R Engineering College,affiliated to Andhra University."
+	},
+	"Contact": {
 		"heading": "My Contact"
 	}
 }

@@ -1,4 +1,12 @@
-{
+{"Menuheader": {
+		"aboutme": "OVER MIJ",
+		"techskills": "TECHNISCHE VAARDIGHEDEN",
+		"projects": "PROJECTEN",
+		"organization": "ORGANISATIE",
+		"education": "ONDERWIJS",
+		"contact": "CONTACT",
+		"Curculimvita": "Curculimvita"
+	},
     "Education": {
         "heading": "Onderwijs",
         "text": "Bachelor of Engineering (Electrical and Electronics) met 71% van S.R.K.R Engineering College, verbonden aan Andhra University."

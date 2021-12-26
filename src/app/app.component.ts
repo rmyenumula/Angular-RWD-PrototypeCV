@@ -8,14 +8,5 @@ import {TranslateService} from '@ngx-translate/core';
 })
 export class AppComponent {
   title = 'resume';
-    // constructor(private translate: TranslateService) {
-        // translate.setDefaultLang('en');
-    // }
-	
-	// changeLanguage(language: string){
-		// console.log("dsfdsfsdfds");
-		
-    // this.translate.use(language);
-	
-// }
+
 }
