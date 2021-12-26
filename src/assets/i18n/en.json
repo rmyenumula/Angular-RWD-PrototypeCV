@@ -14,5 +14,13 @@
 	},
 	"Contact": {
 		"heading": "My Contact"
+	},
+	"Techskills":{
+		"heading":"Technical Skills",
+		"webtech":"Web Technologies",
+		"languages":"Languages",
+		"tools":"Tools",
+		"database":"Database",
+		"frameworks":"Frameworks"	
 	}
 }

@@ -13,5 +13,15 @@
     },
 	"Contact":{
 		"heading": "mijn Contact"
+	},
+	"Techskills":{
+		"heading":"Technische vaardigheden",
+		"webtech":"Webtechnologieën",
+		"languages":"Talen",
+		"tools":"Hulpmiddelen",
+		"database":"Database",
+		"frameworks":"Kaders"
+		
+		
 	}
 }
