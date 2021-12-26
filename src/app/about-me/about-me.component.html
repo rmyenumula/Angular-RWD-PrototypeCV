@@ -10,12 +10,12 @@
 							
 							<div>
 							  <div class="heading">{{ 'Aboutme.overview' | translate}}</div>
-							  <!-- <div class="content" translate='{{"Aboutme.description"}}'> -->
+							  <div class="content" [innerHTML]="'Aboutme.description' | translate">
 								
-							  <!-- </div> -->
+							  </div>
 							</div>		
 
-							<p [innerHTML]="'Aboutme.description' | translate"></p>
+							
 							
 						</div><!--//section-inner-->   
                         				
