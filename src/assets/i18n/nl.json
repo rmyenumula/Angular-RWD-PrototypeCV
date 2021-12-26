@@ -21,7 +21,12 @@
 		"tools":"Hulpmiddelen",
 		"database":"Database",
 		"frameworks":"Kaders"
-		
-		
+	},
+	"Aboutme":{
+		"heading":"Over mij",
+		"goal":"Op zoek naar een uitdagende functie, gebruikmakend van mijn vaardigheden die zijn ontwikkeld door mijn ervaring en opleiding met een mogelijkheid voor carrièregroei op basis van mijn verdienste en om de groei van de organisatie te bevorderen.",
+		"overview":"Kort overzicht",
+		"description":"<p>Ik ben een <span class = \"heading\">Java Web applicatie </span> ontwikkelaar met <span class=\"heading\">5,5 jaar </span>werkervaring. </p> <p> Bekwaam in het ontwerpen van webgebaseerde applicaties met behulp van <span class = \"heading\"> Angular, Angular JS, JQuery, jQuery Mobile, Bootstrap CSS, Backbone JS, Java Script, HTML, HTML 5, CSS, CSS3, REST, Servlets, JSP's en Ajax </span>.</p> <p> Ervaring in het ontwikkelen van webapplicaties in Java / JEE - technologie. </p> <p> Bedreven in het werken aan web - en client - serveromgevingen, inclusief Java Platform. </p> <p> Ervaring met het ontwerpen en coderen van <span class = \"heading\">responsieve websites</span>.</p> <p> Kennis over <span class = \"heading\">Google App Engine Framework </span> en Objectify.</p> <p> Uitgebreide ervaring in het omzetten van zakelijke vereisten in passende technische oplossingen. </p> <p > Enthousiasme om nieuwe technologieën te leren, gedachten op een effectieve manier toe te passen. </p> <p> Teamspeler met uitstekende interpersoonlijke, communicatieve en organisatorische vaardigheden.</p>"
+				
 	}
 }
