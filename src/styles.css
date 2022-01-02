@@ -48,6 +48,12 @@ body {
 	padding-right: 10px;
 }
 
-section{
+.section{
 	padding: 20px;
 }
+
+.contact-header {
+    background: #196d83 !important;
+    color: white;
+    padding-top: 1em;
+}	
