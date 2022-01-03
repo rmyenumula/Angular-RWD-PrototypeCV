@@ -55,5 +55,45 @@ body {
 .contact-header {
     background: #196d83 !important;
     color: white;
-    padding-top: 1em;
+    padding-top: 1.5em;
 }	
+
+.contact-name{
+	 font-family: 'Montserrat', sans-serif;
+	 font-weight: 700;
+}
+
+.contact-position{
+	font-family: 'Lato', arial, sans-serif;
+	font-weight: 600;
+}
+
+.contact-details{
+	font-size: initial;
+	padding-left:revert;
+}
+
+.contact-details a{
+   color: #2eefff;
+}
+
+.contact-img{
+	height:110px
+	}
+	
+@media (max-width: 991px) and (min-width: 600px) {
+
+	.contact-name,.contact-position{
+		font-size : large;
+	}
+    
+	.contact-details {
+		font-size: small;
+		padding-left: revert;
+   }
+   
+   .contact-img{
+	height:90px
+	}
+	
+}
