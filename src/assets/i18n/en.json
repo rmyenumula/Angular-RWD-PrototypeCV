@@ -13,6 +13,9 @@
 		"heading": "Education",
 		"text": "Bachelor of Engineering (Electrical and Electronics) with 71% from S.R.K.R Engineering College,affiliated to Andhra University."
 	},
+	"Organization":{
+		"heading":"Organization"
+	},
 	"Languages":{
 		"heading": "Languages"
 	},
@@ -46,7 +49,7 @@
 		 "ravimitracv":{
 			 "period":"",
 			 "descp":"RaviMitra CV is an web application which is developed using angular10 and Bootstrap5 with internationalization concept.Here we can view the CV in English and dutch by swiching the language. By clicking on the email they will be directed to the gmail account to send the mail.",
-			 "res":" <div>Functionality developed using TypeScripting, Angular10 using MVVM concepts.</div><div>Implementing the responsive web pages.</div><div>Developing responsive pages using html5.</div><div>Code-Reviews and Optimization of the code for quick response.</div>"
+			 "res":" <p>Functionality developed using TypeScripting, Angular10 using MVVM concepts.</p><p>Implementing the responsive web pages.</p><p>Developing responsive pages using html5.</p><p>Code-Reviews and Optimization of the code for quick response.</p>"
 		 },
 		 "amex":{
 			 "period":"June 2015 to Sep 2015",

@@ -79,7 +79,7 @@ body {
 }
 
 .contact-img{
-	height:110px
+	height:110px;
 	}
 	
 @media (max-width: 991px) and (min-width: 600px) {
@@ -97,7 +97,21 @@ body {
    }
    
    .contact-img{
-	height:110px
+	height:110px;
 	}
 	
+}
+
+.tech-bars .progress{
+	height:10px;
+}
+
+.tech-bars-skill{
+	padding-top:10px;
+}
+
+.skills-badges span{
+	margin-right:5px;
+	font-size: 0.85em;
+	background-color: #42A8C0!important;
 }
