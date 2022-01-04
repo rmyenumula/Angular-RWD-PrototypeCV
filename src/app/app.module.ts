@@ -18,6 +18,7 @@ import { ContactComponent } from './contact/contact.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { RoutingDirective } from './routing.directive';
 import { CvComponent } from './cv/cv.component';
+import { LanguagesComponent } from './languages/languages.component';
 
 @NgModule({
   declarations: [
@@ -30,7 +31,8 @@ import { CvComponent } from './cv/cv.component';
     ContactComponent,
     NavbarComponent,
     RoutingDirective,
-    CvComponent
+    CvComponent,
+    LanguagesComponent
   ],
   imports: [
     BrowserModule,

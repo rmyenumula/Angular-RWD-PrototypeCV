@@ -6,6 +6,7 @@ import { AboutMeComponent } from './about-me/about-me.component';
 import { TechnicalSkillsComponent } from './technical-skills/technical-skills.component';
 import { ProjectsComponent } from './projects/projects.component';
 import { OrganizationComponent } from './organization/organization.component';
+import { LanguagesComponent } from './languages/languages.component';
 import { ContactComponent } from './contact/contact.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 const routes: Routes = [
@@ -15,6 +16,7 @@ const routes: Routes = [
 {path:'organization',component:OrganizationComponent,data: {animation: 'OrganizationPage'} },
 {path:'technicalskills',component:TechnicalSkillsComponent,data: {animation: 'TechnicalSkillsPage'} },
 {path:'projects',component:ProjectsComponent,data: {animation: 'ProjectsPage'} },
+{path:'languages',component:LanguagesComponent,data: {animation: 'LanguagesPage'} },
 {path:'contact',component:ContactComponent,data: {animation: 'ContactPage'} }
 ];
 

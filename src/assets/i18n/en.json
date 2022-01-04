@@ -5,6 +5,7 @@
 		"projects": "PROJECTS",
 		"organization": "ORGANIZATION",
 		"education": "EDUCATION",
+		"languages":"LANGUAGES",
 		"contact": "CONTACT",
 		"Curculimvita": "Curculimvita"
 	},
@@ -12,8 +13,12 @@
 		"heading": "Education",
 		"text": "Bachelor of Engineering (Electrical and Electronics) with 71% from S.R.K.R Engineering College,affiliated to Andhra University."
 	},
+	"Languages":{
+		"heading": "Languages"
+	},
 	"Contact": {
-		"heading": "My Contact"
+		"heading": "My Contact",
+		"jobtitle":"Full Stack Developer "
 	},
 	"Techskills": {
 		"heading": "Technical Skills",

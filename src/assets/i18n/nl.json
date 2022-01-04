@@ -4,15 +4,19 @@
 		"projects": "PROJECTEN",
 		"organization": "ORGANISATIE",
 		"education": "ONDERWIJS",
+		"languages":"TALEN",
 		"contact": "CONTACT",
 		"Curculimvita": "Curculimvita"
 	},
     "Education": {
         "heading": "Onderwijs",
         "text": "Bachelor of Engineering (Electrical and Electronics) met 71% van S.R.K.R Engineering College, verbonden aan Andhra University."
-    },
+    },"Languages":{
+		"heading": "Talen"
+	},
 	"Contact":{
-		"heading": "mijn Contact"
+		"heading": "mijn Contact",
+		"jobtitle":"Full Stack ontwikkelaar"
 	},
 	"Techskills":{
 		"heading":"Technische vaardigheden",
