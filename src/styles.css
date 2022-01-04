@@ -83,17 +83,21 @@ body {
 	
 @media (max-width: 991px) and (min-width: 600px) {
 
-	.contact-name,.contact-position{
+	.contact-name {
 		font-size : large;
 	}
     
+	.contact-position {
+		font-size : medium;
+	}
+	
 	.contact-details {
 		font-size: small;
 		padding-left: revert;
    }
    
    .contact-img{
-	height:90px
+	height:110px
 	}
 	
 }
