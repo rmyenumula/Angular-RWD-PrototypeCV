@@ -33,5 +33,51 @@
 		"goal": "Seeking a challenging position, utilizing my abilities developed through my experience and education with an  opportunity for career growth based on my merit and to promote the growth of the organization.",
 		"overview": "Brief Overview",
 		"description": "<p>I am a <span class=\"heading\">Java Web application </span> developer with <span class=\"heading\">5.5 years </span>of work experience. </p><p>Proficient in designing web based applications using <span class=\"heading\"> Angular, Angular JS, JQuery, jQuery Mobile, Bootstrap CSS, Backbone JS, Java Script, HTML, HTML 5, CSS, CSS3, REST, Servlets, JSPs and Ajax </span>.</p><p>Experience in developing web applications in Java/JEE technology.</p><p>Adept at working on Web & Client-Server environments including Java Platform.</p><p>Experience with designing and coding <span class=\"heading\"> Responsive Web Sites</span>.</p><p>Knowledge on <span class=\"heading\">Google App Engine Framework </span> and Objectify.</p><p>Extensive experience in converting business requirements into appropriate technical solutions.</p><p>Enthusiasm to learn new technologies, applying thoughts in an effective manner.</p><p>Team player with excellent interpersonal, communication and organizational skills.</p>"
+	},
+	"Projects":{
+		 "projectshandled":"Projects Handled:",
+		 "projectname":"Project Name:",
+		 "client":"Client:",
+		 "softwaretools":"Software/Tools:",
+		 "role":"Role:",
+		 "description":"Description:",
+		 "responsibilities":"Responsibilities:",
+		 "duration":"Duration:",
+		 "ravimitracv":{
+			 "period":"",
+			 "descp":"RaviMitra CV is an web application which is developed using angular10 and Bootstrap5 with internationalization concept.Here we can view the CV in English and dutch by swiching the language. By clicking on the email they will be directed to the gmail account to send the mail.",
+			 "res":" <div>Functionality developed using TypeScripting, Angular10 using MVVM concepts.</div><div>Implementing the responsive web pages.</div><div>Developing responsive pages using html5.</div><div>Code-Reviews and Optimization of the code for quick response.</div>"
+		 },
+		 "amex":{
+			 "period":"June 2015 to Sep 2015",
+			  "descp":"OPEN from American Express ('OPEN') offers small business owners a wide range of tools, services and savings designed to meet their evolving needs, including : charge and credit cards , discounts at select suppliers of business services and products, including airline tickets, car rentals, hotel stays, package shipping, computer and software equipment, telecommunications, printing and photocopying services and other business services, enhanced online account management capabilities retail and travel protections such as baggage insurance and travel services.",
+			 "res":"<p>Implementing the responsive web pages as per the screen shots provided by the client using HTML, HTML5, CSS and CSS3.</p><p>Developed the Growth Partner landing site and implemented the changes required by the client for the existing OPEN.COM site.</p><p>Functionality developed using jQuery and OO JavaScript.</p><p>Developing responsive pages using html5</p><p>Code-Reviews and Optimization of the code for quick response.</p>"
+		 },
+		 "mdot":{
+			 "period":"March 2014 to Jan 2015",
+			 "descp":"MDOT Money Transfer Application developed on top of web application using RWD standards, mobile money transfer service offering will connect its core money-transfer platform to m-bank or m-wallet platforms provided by mobile operators and/or locally regulated financial institutions. The application helps people from more than 200 countries to send and receive money, make payments, purchase money orders, check transfer status online, find agents across the world.",
+			 "res":"<p>Functionality developed using jQuery and OO JavaScript.</p><p>Dividing the single page application to multiple pages mobile compatible application without  affecting the actual functionality of the western union desktop application.</p><p>Code-Reviews and Optimization of the code for quick response.</p><p>Resolving the flow braking issues.</p><p>Developed Application as per Android and IOS standards.</p>"
+		 },
+		 "app360":{
+			 "period":"Feb 2014 to March 2014",
+			 "descp":"The App 360 Project is a strategic initiative to create a single mechanism to provide all Knowledge Management services and other application overview details in a single view, with focus on usage of knowledge management requirements in the Production Services organization. This tool will provide a 360 degree view of the application with necessary interaction between the appropriate MetLife tools and also provide knowledge management functionality for applications.",
+			 "res":"<p>Developed business logic functions.</p><p>Implemented front-end using Java Script, JQuery.</p><p>Implemented layouts using BootStrap CSS .</p>"
+		 },
+		 "clickdesk":{
+			 "period":"Aug 2012 to Nov 2013",
+			 "descp":"Helpdesk’s support ticket system helps companies streamline their support ticket workload. When a company’s customer emails a support request to a Helpdesk’s support ticket system, he or she immediately receives a notification that the issue is being assigned to an agent. Agent will then escalate the issue to an engineer and provide a status update to the customer. This entire process happens through Helpdesk, typically within 24 hours.",
+			 "res":"<p>Developed business logic functions.</p><p>Implemented in writing Entity Classes.</p><p>Implemented front-end using Java Script, JQuery, Backbone and JSP.</p><p>Implemented layouts using BootStrap CSS for the Responsive Web pages</p>"
+		 },
+		 "kesip":{
+			 "period":"Dec 2010 to Dec 2011",
+			 "descp":"The Kabul Electricity System Improvement Program (KESIP) which include standardization of metering, billing, collection and accounting processes, thus reducing the daily problems related to process, data mismatch and availability of timely information for decision support. Integrate Revenue & Customer service data to improve business process efficiencies and provide 360 degree view of customer account information.",
+			 "res":"<p>Analyzing business requirements & functional specs define & document technical and program specifications.</p><p>Implemented PDF reports using iText API.</p><p>Dynamic report generation queries for the Metering Query Module in XSQL.</p><p>Implemented Unit test cases.</p><p>Wrote the User guide for the module. </p>"
+		 },
+		 "kesco":{
+			 "period":"Aug 2009 to Nov 2010",
+			 "descp":" Kanpur Electricity Supply Company Limited (KESCo) is a suite of CRM (Customer Relationship Management) and Billing Products developed for Power Distribution utilities with the proactive aim of enhanced revenue generation. Structured to address the challenges & growing demands being encountered by the billing trade cycle and customer related processes.",
+			 "res":"<p>Implementing Change requests.</p><p>Wrote the Junit test cases.</p><p>Modifying/Creating tasks by implementing the requirements in java class file.</p><p>Test cases Review.</p><p>Wrote the User guide for the module.</p>"
+		 }
+		
 	}
 }

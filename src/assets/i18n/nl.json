@@ -32,5 +32,51 @@
 		"overview":"Kort overzicht",
 		"description":"<p>Ik ben een <span class = \"heading\">Java Web applicatie </span> ontwikkelaar met <span class=\"heading\">5,5 jaar </span>werkervaring. </p> <p> Bekwaam in het ontwerpen van webgebaseerde applicaties met behulp van <span class = \"heading\"> Angular, Angular JS, JQuery, jQuery Mobile, Bootstrap CSS, Backbone JS, Java Script, HTML, HTML 5, CSS, CSS3, REST, Servlets, JSP's en Ajax </span>.</p> <p> Ervaring in het ontwikkelen van webapplicaties in Java / JEE - technologie. </p> <p> Bedreven in het werken aan web - en client - serveromgevingen, inclusief Java Platform. </p> <p> Ervaring met het ontwerpen en coderen van <span class = \"heading\">responsieve websites</span>.</p> <p> Kennis over <span class = \"heading\">Google App Engine Framework </span> en Objectify.</p> <p> Uitgebreide ervaring in het omzetten van zakelijke vereisten in passende technische oplossingen. </p> <p > Enthousiasme om nieuwe technologieën te leren, gedachten op een effectieve manier toe te passen. </p> <p> Teamspeler met uitstekende interpersoonlijke, communicatieve en organisatorische vaardigheden.</p>"
 				
-	}
+	},
+	"Projects":{
+		 "projectshandled":"Projecten afgehandeld:",
+		  "projectname":"Naam van het project:",
+		   "client":"Cliënt:",
+		  "softwaretools":"Software/Hulpmiddelen:",
+		  "role":"Rol:",
+		  "description":"Beschrijving:",
+		  "responsibilities":"Verantwoordelijkheden:",
+		  "duration":"looptijd:",
+		   "ravimitracv":{
+			 "period":"",
+			 "descp":"RaviMitra CV is een webapplicatie die is ontwikkeld met behulp van angular10 en Bootstrap5 met internationaliseringsconcept. Hier kunnen we het CV in het Engels en Nederlands bekijken door van taal te wisselen. Door op de e-mail te klikken, worden ze doorgestuurd naar het gmail-account om de e-mail te verzenden.",
+			 "res":" <div>Functionaliteit ontwikkeld met TypeScripting, Angular10 met behulp van MVVM-concepten.</div><div>Implementatie van de responsieve webpagina's.</div><div>Ontwikkeling van responsieve pagina's met html5.</div><div>Code-reviews en Optimalisatie van de code voor snelle reactie.</div>"
+		 },
+		 "amex":{
+			 "period":"juni 2015 tot september 2015",
+			 "descp":"OPEN van American Express ('OPEN') biedt eigenaren van kleine bedrijven een breed scala aan hulpmiddelen, diensten en besparingen die zijn ontworpen om aan hun veranderende behoeften te voldoen, waaronder: betaalkaarten en creditcards, kortingen bij geselecteerde leveranciers van zakelijke diensten en producten, waaronder vliegtickets, autoverhuur, hotelovernachtingen, pakketverzending, computer- en softwareapparatuur, telecommunicatie, print- en kopieerdiensten en andere zakelijke diensten, verbeterde mogelijkheden voor online accountbeheer, detailhandel en reisbescherming, zoals bagageverzekering en reisdiensten.",
+			 "res":"<p>Implementatie van de responsieve webpagina's volgens de schermafbeeldingen die door de klant zijn aangeleverd met behulp van HTML, HTML5, CSS en CSS3.</p><p>Ontwikkelde de landingssite van de groeipartner en implementeerde de wijzigingen die de klant nodig had voor de bestaande OPEN.COM-site.</p><p>Functionaliteit ontwikkeld met jQuery en OO JavaScript.</p><p>Ontwikkelen van responsieve pagina's met html5</p><p>Code-reviews en optimalisatie van de code voor snelle respons.</p>"
+		 },
+		 "mdot":{
+			 "period":"Maart 2014 tot januari 2015",
+			 "descp":"MDOT Money Transfer Application ontwikkeld bovenop een webapplicatie met behulp van RWD-standaarden, het aanbod van mobiele geldoverdrachtdiensten zal het kernplatform voor geldoverdracht verbinden met m-bank- of m-wallet-platforms die worden aangeboden door mobiele operators en/of lokaal gereguleerde financiële instellingen. De applicatie helpt mensen uit meer dan 200 landen om geld te verzenden en te ontvangen, betalingen te doen, postwissels te kopen, de overschrijvingsstatus online te controleren en agenten over de hele wereld te vinden.",
+			 "res":"<p>Functionaliteit ontwikkeld met behulp van jQuery en OO JavaScript.</p><p>Het verdelen van de applicatie met één pagina in een mobiel compatibele applicatie met meerdere pagina's zonder de daadwerkelijke functionaliteit van de Western Union desktop-applicatie te beïnvloeden.</p><p>Code- Beoordelingen en optimalisatie van de code voor een snelle reactie.</p><p>Oplossen van de stroomremproblemen.</p><p>Ontwikkelde applicatie volgens Android- en IOS-normen.</p>"
+		 },
+		 "app360":{
+			 "period":"februari 2014 tot maart 2014",
+			 "descp":"Het App 360-project is een strategisch initiatief om één mechanisme te creëren om alle Knowledge Management-services en andere applicatieoverzichtsdetails in één weergave te bieden, met de nadruk op het gebruik van kennisbeheervereisten in de Production Services-organisatie. Deze tool biedt een 360-gradenweergave van de applicatie met de nodige interactie tussen de juiste MetLife-tools en biedt ook kennisbeheerfunctionaliteit voor applicaties.",
+			 "res":"<p>Ontwikkelde zakelijke logische functies.</p><p>Geïmplementeerde front-end met behulp van Java Script, JQuery.</p><p>Geïmplementeerde lay-outs met BootStrap CSS .</p>"
+		 },
+		 "clickdesk":{
+			 "period":"Augustus 2012 tot Nov 2013",
+			 "descp":"Het supportticketsysteem van Helpdesk helpt bedrijven de werklast van hun supporttickets te stroomlijnen. Wanneer de klant van een bedrijf een ondersteuningsverzoek e-mailt naar het ondersteuningsticketsysteem van een helpdesk, ontvangt hij of zij onmiddellijk een melding dat het probleem wordt toegewezen aan een agent. De agent escaleert het probleem vervolgens naar een technicus en geeft de klant een statusupdate. Dit hele proces verloopt via de helpdesk, doorgaans binnen 24 uur.",
+		 "res":"<p>Ontwikkelde bedrijfslogica-functies.</p><p>Geïmplementeerd in het schrijven van entiteitsklassen.</p><p>Geïmplementeerd front-end met behulp van Java Script, JQuery, Backbone en JSP.</p><p>Geïmplementeerd lay-outs met Bootstrap CSS voor de responsieve webpagina's</p>"
+		}
+		 ,
+		 "kesip":{
+			 "period":"december 2010 tot december 2011",
+			 "descp":"Het Kabul Electricity System Improvement Program (KESIP), dat standaardisatie van meet-, facturerings-, innings- en boekhoudprocessen omvat, waardoor de dagelijkse problemen met betrekking tot processen, gegevensmismatches en beschikbaarheid van tijdige informatie voor beslissingsondersteuning worden verminderd. Integreer gegevens over omzet en klantenservice om de efficiëntie van bedrijfsprocessen te verbeteren en een 360 graden beeld van klantaccountgegevens te bieden.",
+			 "res":"<p>Analyse van zakelijke vereisten en functionele specificaties definiëren en documenteren technische en programmaspecificaties.</p><p>Geïmplementeerde PDF-rapporten met behulp van iText API.</p><p>Dynamische query's voor het genereren van rapporten voor de Metering Query-module in XSQL. </p><p>Geïmplementeerde Unit-testcases.</p><p>Schreef de gebruikershandleiding voor de module. </p>"
+		 }
+	  },
+		 "kesco":{
+			 "period":"Augustus 2009 tot Nov 2010",
+			 "descp":"Kanpur Electricity Supply Company Limited (KESCo) is een suite van CRM (Customer Relationship Management) en Billing Products ontwikkeld voor stroomdistributiebedrijven met het proactieve doel om meer inkomsten te genereren. Gestructureerd om de uitdagingen en groeiende eisen aan te pakken waarmee de factureringscyclus en klantgerelateerde processen worden geconfronteerd.",
+			 "res":"<p>Wijzigingsverzoeken implementeren.</p><p>De Junit-testcases geschreven.</p><p>Taken aanpassen/creëren door de vereisten in het Java-klassebestand te implementeren.</p><p>Testcases Review .</p><p>Schreef de gebruikershandleiding voor de module. </p>"
+		 }
 }
