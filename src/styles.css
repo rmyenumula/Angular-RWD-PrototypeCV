@@ -47,6 +47,11 @@ body {
 	font-size : medium;
 }
 
+.organization h6{
+	font-size : 15.5px;;
+}
+
+
 .heading{
 	/* color: #212529; */
 	color: #42A8C0;
@@ -90,19 +95,19 @@ body {
 @media (max-width: 991px) and (min-width: 600px) {
 
 	.contact-name {
-		font-size : large;
+		font-size : 17px;
 	}
     
 	.contact-jobtitle {
-		font-size : medium;
+		font-size : 16px;
 	}
 	
 	.contact-details {
-		font-size: small;
+		font-size: 11px;
    }
    
    .contact-img{
-	height:110px;
+	height:90px;
 	}
 	
 }
