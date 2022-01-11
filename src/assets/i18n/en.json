@@ -52,7 +52,7 @@
 		 "ravimitracv":{
 			 "period":"",
 			 "descp":"RaviMitra CV is an web application which is developed using angular10 and Bootstrap5 with internationalization concept.Here we can view the CV in English and dutch by swiching the language. By clicking on the email they will be directed to the gmail account to send the mail.",
-			 "res":" <p>Functionality developed using TypeScripting, Angular10, BootStrap5 and using MVVM concepts.</p><p>Implementing the internationalization which helps in viewing the pages in two languages.</p><p>Developing responsive web pages.</p><p>Using CSS3 concepts for styling the pages.</p><p>Code-Reviews and Optimization of the code.</p><p>Pusing the code to repository using GIT.</p><p>Manually testing and bug fixings.</p>"
+			 "res":" <p>Functionality developed using TypeScripting, Angular10, BootStrap5 and using MVVM concepts.</p><p>Implementing the internationalization which helps in viewing the pages in two languages.</p><p>Developing responsive web pages.</p><p>Using CSS3 concepts for styling the pages.</p><p>Code-Reviews and Optimization of the code.</p><p>Pushing the code to repository using GIT.</p><p>Manually testing and bug fixings.</p>"
 		 },
 		 "amex":{
 			 "period":"June 2015 to Sep 2015",
