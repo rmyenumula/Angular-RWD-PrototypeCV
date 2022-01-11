@@ -52,17 +52,17 @@
 		 "ravimitracv":{
 			 "period":"",
 			 "descp":"RaviMitra CV is an web application which is developed using angular10 and Bootstrap5 with internationalization concept.Here we can view the CV in English and dutch by swiching the language. By clicking on the email they will be directed to the gmail account to send the mail.",
-			 "res":" <p>Functionality developed using TypeScripting, Angular10 using MVVM concepts.</p><p>Implementing the responsive web pages.</p><p>Developing responsive pages using html5.</p><p>Code-Reviews and Optimization of the code for quick response.</p>"
+			 "res":" <p>Functionality developed using TypeScripting, Angular10, BootStrap5 and using MVVM concepts.</p><p>Implementing the internationalization which helps in viewing the pages in two languages.</p><p>Developing responsive web pages.</p><p>Using CSS3 concepts for styling the pages.</p><p>Code-Reviews and Optimization of the code.</p><p>Manually testing and bug fixings.</p>"
 		 },
 		 "amex":{
 			 "period":"June 2015 to Sep 2015",
 			  "descp":"OPEN from American Express ('OPEN') offers small business owners a wide range of tools, services and savings designed to meet their evolving needs, including : charge and credit cards , discounts at select suppliers of business services and products, including airline tickets, car rentals, hotel stays, package shipping, computer and software equipment, telecommunications, printing and photocopying services and other business services, enhanced online account management capabilities retail and travel protections such as baggage insurance and travel services.",
-			 "res":"<p>Implementing the responsive web pages as per the screen shots provided by the client using HTML, HTML5, CSS and CSS3.</p><p>Developed the Growth Partner landing site and implemented the changes required by the client for the existing OPEN.COM site.</p><p>Functionality developed using jQuery and OO JavaScript.</p><p>Developing responsive pages using html5</p><p>Code-Reviews and Optimization of the code for quick response.</p>"
+			 "res":"<p>Implementing the responsive web pages as per the screen shots provided by the client using HTML, HTML5, CSS and CSS3.</p><p>Developed the Growth Partner landing site and implemented the changes required by the client for the existing OPEN.COM site.</p><p>Functionality developed using jQuery and OO JavaScript.</p><p>Code-Reviews and Optimization of the code for quick response.</p>"
 		 },
 		 "mdot":{
 			 "period":"March 2014 to Jan 2015",
 			 "descp":"MDOT Money Transfer Application developed on top of web application using RWD standards, mobile money transfer service offering will connect its core money-transfer platform to m-bank or m-wallet platforms provided by mobile operators and/or locally regulated financial institutions. The application helps people from more than 200 countries to send and receive money, make payments, purchase money orders, check transfer status online, find agents across the world.",
-			 "res":"<p>Functionality developed using jQuery and OO JavaScript.</p><p>Dividing the single page application to multiple pages mobile compatible application without  affecting the actual functionality of the western union desktop application.</p><p>Code-Reviews and Optimization of the code for quick response.</p><p>Resolving the flow braking issues.</p><p>Developed Application as per Android and IOS standards.</p>"
+			 "res":"<p>Functionality developed using jQuery and OO JavaScript.</p><p>Dividing the single page application to multiple pages mobile compatible application without  affecting the actual functionality of the western union desktop application.</p><p>Resolving the flow braking issues.</p><p>Developed Application as per Android and IOS standards.</p>"
 		 },
 		 "app360":{
 			 "period":"Feb 2014 to March 2014",
