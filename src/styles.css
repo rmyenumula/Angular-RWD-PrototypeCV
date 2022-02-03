@@ -65,7 +65,7 @@ body {
 .contact-header {
     background: #196d83 !important;
     color: white;
-    padding-top: 1em;
+    padding-top: 1.5em;
 }	
 
 .contact-name{
@@ -89,11 +89,9 @@ body {
 }
 
 .contact-img{
-	height:100px;
+	height:110px;
 	}
-.project{
-margin-top: 20px; 	
-}	
+	
 @media (max-width: 991px) and (min-width: 600px) {
 
 	.contact-name {
