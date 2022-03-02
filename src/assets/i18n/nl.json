@@ -48,10 +48,13 @@
 		  "description":"Beschrijving:",
 		  "responsibilities":"Verantwoordelijkheden:",
 		  "duration":"looptijd:",
+		   "features":"Kenmerken:",
 		   "ravimitracv":{
 			 "period":"",
-			 "descp":"RaviMitra CV is een webapplicatie die is ontwikkeld met behulp van angular10 en Bootstrap5 met internationaliseringsconcept. Hier kunnen we het CV in het Engels en Nederlands bekijken door van taal te wisselen. Door op de e-mail te klikken, worden ze doorgestuurd naar het gmail-account om de e-mail te verzenden.",
-			 "res":" <p>Functionaliteit ontwikkeld met behulp van TypeScripting, Angular10, BootStrap5 en met behulp van MVVM-concepten.</p><p>Implementatie van de internationalisering die helpt bij het bekijken van de pagina's in twee talen.</p><p>Ontwikkeling van responsieve webpagina's.</p><p>CSS3-concepten gebruiken voor het opmaken van de pagina's.</p><p>Code-reviews en optimalisatie van de code.</p><p>De code naar de repository pushen met GIT.</p><p>Handmatig testen en oplossen van fouten.</p>"
+			  "descp":"RaviMitra CV is een webapplicatie die is ontwikkeld met behulp van angular10 en Bootstrap5 met internationaliseringsconcept en meer flexibiliteit om de Curculimvita op elk apparaat te bekijken.",
+			 "featu":"<p>Bekijk de Curculimvita in twee talen, namelijk Engels en Nederlands met de Switch-knop.</p><p>Door op de e-mail te klikken, wordt een nieuw gmail-opstelvenster geopend van waaruit u de e-mail direct kunt verzenden.</p><p>Navigatie om het geselecteerde gedeelte van het cv te bekijken.</p><p>Responsieve website.</p>",
+			 "descp1":"RaviMitra CV is een webapplicatie die is ontwikkeld met behulp van angular10 en Bootstrap5 met internationaliseringsconcept. Hier kunnen we het CV in het Engels en Nederlands bekijken door van taal te wisselen. Door op de e-mail te klikken, worden ze doorgestuurd naar het gmail-account om de e-mail te verzenden.",
+			 "res1":" <p>Functionaliteit ontwikkeld met behulp van TypeScripting, Angular10, BootStrap5 en met behulp van MVVM-concepten.</p><p>Implementatie van de internationalisering die helpt bij het bekijken van de pagina's in twee talen.</p><p>Ontwikkeling van responsieve webpagina's.</p><p>CSS3-concepten gebruiken voor het opmaken van de pagina's.</p><p>Code-reviews en optimalisatie van de code.</p><p>De code naar de repository pushen met GIT.</p><p>Handmatig testen en oplossen van fouten.</p>"
 		 },"tdbank":{
 			 "period":"",
 			 "descp":"TD Bank Group biedt een volledig assortiment financiële producten en diensten aan meer dan 26 miljoen klanten wereldwijd. TD behoort ook tot 's werelds toonaangevende online financiële dienstverleners, met meer dan 15 miljoen actieve online en mobiele klanten.",

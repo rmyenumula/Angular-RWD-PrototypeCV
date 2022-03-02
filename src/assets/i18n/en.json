@@ -49,10 +49,13 @@
 		 "description":"Description:",
 		 "responsibilities":"Responsibilities:",
 		 "duration":"Duration:",
+		 "features":"Features:",
 		 "ravimitracv":{
 			 "period":"",
-			 "descp":"RaviMitra CV is an web application which is developed using angular10 and Bootstrap5 with internationalization concept.Here we can view the CV in English and dutch by swiching the language. By clicking on the email they will be directed to the gmail account to send the mail.",
-			 "res":" <p>Functionality developed using TypeScripting, Angular10, BootStrap5 and using MVVM concepts.</p><p>Implementing the internationalization which helps in viewing the pages in two languages.</p><p>Developing responsive web pages.</p><p>Using CSS3 concepts for styling the pages.</p><p>Code-Reviews and Optimization of the code.</p><p>Pushing the code to repository using GIT.</p><p>Manual testing and bug fixing.</p>"
+			 "descp":"RaviMitra CV is an web application which is developed using angular10 and Bootstrap5 with internationalization concept and more flexibility to view the Curculimvita in any device.",
+			 "featu":" <p>View the Curculimvita in two languages i.e., English and Dutch by using the switch button.</p><p>By clicking on the mail a new gmail compose window is opened from where you can directly send the mail.</p><p>Navigation to view the selected section of the CV.</p><p>Responsive website.</p>",
+			 "descp1":"RaviMitra CV is an web application which is developed using angular10 and Bootstrap5 with internationalization concept.Here we can view the CV in English and dutch by swiching the language. By clicking on the email they will be directed to the gmail account to send the mail.",
+			 "res1":" <p>Functionality developed using TypeScripting, Angular10, BootStrap5 and using MVVM concepts.</p><p>Implementing the internationalization which helps in viewing the pages in two languages.</p><p>Developing responsive web pages.</p><p>Using CSS3 concepts for styling the pages.</p><p>Code-Reviews and Optimization of the code.</p><p>Pushing the code to repository using GIT.</p><p>Manual testing and bug fixing.</p>"
 		 },"tdbank":{
 			 "period":"",
 			 "descp":"TD Bank Group offers a full range of financial products and services to more than 26 million customers worldwide. TD also ranks among the world’s leading online financial services firms, with more than 15 million active online and mobile customers.",
