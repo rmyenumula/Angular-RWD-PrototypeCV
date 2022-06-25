@@ -37,9 +37,9 @@
 	},
 	"Aboutme": {
 		"heading": "About Me",
-		"goal": "Seeking a challenging position, utilizing my abilities developed through my experience and education with an  opportunity for career growth based on my merit and to promote the growth of the organization.",
+		"goal": "Dedicated Frontend web developer with 7 years of experience. Known for rapidly solving technical issues before operational interruptions occur. Ability to identify, create and capture client value and to find new ideas for difficult challenges. Ability to deliver what is promised even when met with setbacks that stop others. Eager to re-enter the workforce after taking 5 years off, to take care of family., looking for a challenging position to use my experience for career growth based on my merit and to promote the growth of the organization.",
 		"overview": "Brief Overview",
-		"description": "<p>I am a <span class=\"heading\">Java Web application </span> developer with <span class=\"heading\">6.5 years </span>of work experience. </p><p>Proficient in designing web based applications using <span class=\"heading\"> Angular, Angular JS, JQuery, jQuery Mobile, Bootstrap CSS, Backbone JS, Java Script, HTML, HTML 5, CSS, CSS3, REST, Servlets, JSPs and Ajax </span>.</p><p>Experience in developing web applications in Java/JEE technology.</p><p>Adept at working on Web & Client-Server environments including Java Platform.</p><p>Experience with designing and coding <span class=\"heading\"> Responsive Web Sites</span>.</p><p>Knowledge on <span class=\"heading\">Google App Engine Framework </span> and Objectify.</p><p>Extensive experience in converting business requirements into appropriate technical solutions.</p><p>Enthusiasm to learn new technologies, applying thoughts in an effective manner.</p><p>Team player with excellent interpersonal, communication and organizational skills.</p>"
+		"description": "<p>I am a <span class=\"heading\">Java Web application </span> developer with <span class=\"heading\">7years </span>of work experience. </p><p>Proficient in designing web based applications using <span class=\"heading\"> Angular, Angular JS, JQuery, jQuery Mobile, Bootstrap CSS, Backbone JS, Java Script, HTML, HTML 5, CSS, CSS3, REST, Servlets, JSPs and Ajax </span>.</p><p>Experience in developing web applications in Java/JEE technology.</p><p>Adept at working on Web & Client-Server environments including Java Platform.</p><p>Experience with designing and coding <span class=\"heading\"> Responsive Web Sites</span>.</p><p>Knowledge on <span class=\"heading\">Google App Engine Framework </span> and Objectify.</p><p>Extensive experience in converting business requirements into appropriate technical solutions.</p><p>Enthusiasm to learn new technologies, applying thoughts in an effective manner.</p><p>Team player with excellent interpersonal, communication and organizational skills.</p>"
 	},
 	"Projects":{
 		 "projectshandled":"Projects Handled:",
@@ -53,8 +53,8 @@
 		 "features":"Features:",
 		 "ravimitracv":{
 			 "period":"",
-			 "descp":"RaviMitra CV is an web application which is developed using angular10 and Bootstrap5 with internationalization concept and more flexibility to view the Curculimvita in any device.",
-			 "featu":" <p>View the Curculimvita in two languages i.e., English and Dutch by using the switch button.</p><p>By clicking on the mail a new gmail compose window is opened from where you can directly send the mail.</p><p>Navigation to view the selected section of the CV.</p><p>Responsive website.</p>",
+			 "descp":"Develop of personal prototype website using Angular 10 and Bootstrap 5",
+			 "featu":" <p>Internationalization,Responsive,email and Routing</p>",
 			 "descp1":"RaviMitra CV is an web application which is developed using angular10 and Bootstrap5 with internationalization concept.Here we can view the CV in English and dutch by swiching the language. By clicking on the email they will be directed to the gmail account to send the mail.",
 			 "res1":" <p>Functionality developed using TypeScripting, Angular10, BootStrap5 and using MVVM concepts.</p><p>Implementing the internationalization which helps in viewing the pages in two languages.</p><p>Developing responsive web pages.</p><p>Using CSS3 concepts for styling the pages.</p><p>Code-Reviews and Optimization of the code.</p><p>Pushing the code to repository using GIT.</p><p>Manual testing and bug fixing.</p>"
 		 },"tdbank":{
